@@ -1,2 +1,2 @@
 # temp-control-pid
-Temperature control through PID
+Temperature control system for a gas sensor chamber.

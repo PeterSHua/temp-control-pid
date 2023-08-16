@@ -1,4 +1,4 @@
-# temp-control-pid
+## temp-control-pid
 This project is focused on designing and implementing a temperature control system for a gas sensor chamber. The objective is to maintain a known temperature in the chamber during experiments measuring material conductivities in the presence of different gases.
 
 ## System Overview
